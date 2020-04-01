@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+If the shoe fits, buy a pair in every color!
 Use the left arrow to go back!
